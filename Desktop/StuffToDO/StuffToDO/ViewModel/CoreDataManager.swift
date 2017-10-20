@@ -1,10 +1,11 @@
 //
 //  CoreDataManager.swift
-//  ToDoBot
+//  StuffToDO
 //
-//  Created by Brett Romero on 4/24/16.
-//  Copyright © 2016 tester. All rights reserved.
+//  Created by Couto on 10/20/17.
+//  Copyright © 2017 coutocode. All rights reserved.
 //
+
 
 import UIKit
 import CoreData

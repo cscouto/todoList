@@ -413,7 +413,7 @@
         <!--Add-->
         <scene sceneID="B2a-6x-NRs">
             <objects>
-                <viewController title="Add" id="iV8-TO-Ubg" sceneMemberID="viewController">
+                <viewController title="Add" id="iV8-TO-Ubg" customClass="AddViewController" customModule="StuffToDO" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="t7N-kT-PfI"/>
                         <viewControllerLayoutGuide type="bottom" id="lLo-uh-mKf"/>

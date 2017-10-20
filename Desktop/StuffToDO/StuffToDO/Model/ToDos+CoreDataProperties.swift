@@ -1,13 +1,11 @@
 //
-//  ToDos+CoreDataProperties.swift
-//  ToDoBot
+//  ToDos.swift
+//  StuffToDO
 //
-//  Created by Brett Romero on 4/24/16.
-//  Copyright © 2016 tester. All rights reserved.
+//  Created by Couto on 10/20/17.
+//  Copyright © 2017 coutocode. All rights reserved.
 //
-//  Choose "Create NSManagedObject Subclass…" from the Core Data editor menu
-//  to delete and recreate this implementation file for your updated model.
-//
+
 
 import Foundation
 import CoreData
